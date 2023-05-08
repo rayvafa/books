@@ -1,10 +1,21 @@
-# Getting Started with Create React App
+# Bookshelf
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bookshelf is a small pet project to play with latest ReactJS framework.
+It has a backend server and runs using create-react-app as the frontend.
+
+## Running the app
+* Run `npm server` to start up the backend
+* Run `npm start` to start up the frontend
+
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm server`
+
+Runs the backend server which is an API that reads and writes to a json file in the project folder.
+
 
 ### `npm start`
 
